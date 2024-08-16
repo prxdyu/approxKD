@@ -2,11 +2,11 @@ numpy==1.21.6
 scipy==1.7.3
 tqdm
 
-pytest==8.3.2
-tox==4.17.1
-black==24.8.0
-flake8==7.1.1
-mypy==1.11.1
+pytest==7.4.0
+tox==4.11.0
+black==23.9.1
+flake8==6.0.0
+mypy==1.10.0
 
 cryptography==39.0.2
 pyOpenSSL==23.2.0
