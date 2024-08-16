@@ -6,7 +6,7 @@ pytest==7.4.0
 tox==3.27.1
 black==23.3.0
 flake8==5.0.4
-mypy==1.10.0
+mypy==1.4.0
 
 cryptography==39.0.2
 pyOpenSSL==23.2.0
